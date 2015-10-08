@@ -1,5 +1,5 @@
 {
-  "name": "skin-deep",
+  "name": "@bronto/skin-deep",
   "version": "0.8.0",
   "description": "Test assertion helpers for use with React's shallowRender test utils.",
   "main": "skin-deep.js",
